@@ -1,4 +1,4 @@
-## Hey Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hey Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
 I'm an Undergraduate at IIT Bombay. I love to explore different domains of computer science & have a keen interest in ML and AI
 
