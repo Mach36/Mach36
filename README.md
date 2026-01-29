@@ -1,6 +1,6 @@
 ## Hey Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
-I'm an Undergraduate at IIT Bombay. I love to explore different domains of computer science & have a keen interest in ML and AI
+I am a Senior Software Analyst at Deutsche India with a focus on building scalable, enterprise-grade platforms that solve high-stakes business challenges. I love to explore different domains of computer science & have a keen interest in ML and AI
 
 I like to learn new stuff & am always up for challenges! Being an enthusiatic programmer, I am always ready to discuss interesting ideas & projects.
 
